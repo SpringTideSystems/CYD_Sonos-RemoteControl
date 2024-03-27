@@ -1,3 +1,5 @@
+CYD Sonos Remote Control
+
 If you are using your Sonos as an internet radio, you mght be interested in this project
 
 Sonos speakers have a power and volume buttons only. There are no buttons for pre-selected redio stations as a 'normal' radio has. You always need the app on your mobile. If you are using other stations than your preferred station not often, you have a good chance, that you first have to update your sonos app, before chosing you radio station.
